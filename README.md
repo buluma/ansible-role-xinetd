@@ -2,9 +2,9 @@
 
 Install and configure xinetd on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-xinetd/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-xinetd/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-xinetd/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-xinetd)|[![quality](https://img.shields.io/ansible/quality/58661)](https://galaxy.ansible.com/buluma/xinetd)|[![downloads](https://img.shields.io/ansible/role/d/58661)](https://galaxy.ansible.com/buluma/xinetd)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-xinetd.svg)](https://github.com/buluma/ansible-role-xinetd/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-xinetd.svg)](https://github.com/buluma/ansible-role-xinetd/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-xinetd.svg)](https://github.com/buluma/ansible-role-xinetd/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-xinetd/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-xinetd/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-xinetd/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-xinetd)|[![downloads](https://img.shields.io/ansible/role/d/4885)](https://galaxy.ansible.com/buluma/xinetd)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-xinetd.svg)](https://github.com/buluma/ansible-role-xinetd/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-xinetd.svg)](https://github.com/buluma/ansible-role-xinetd/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-xinetd.svg)](https://github.com/buluma/ansible-role-xinetd/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
