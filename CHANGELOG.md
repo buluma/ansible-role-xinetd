@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-xinetd/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-xinetd/compare/v24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#11](https://github.com/buluma/ansible-role-xinetd/issues/11)
+- rebuild action [\#10](https://github.com/buluma/ansible-role-xinetd/issues/10)
+
 ## [v24.3.31](https://github.com/buluma/ansible-role-xinetd/tree/v24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-xinetd/compare/v0.3.0...v24.3.31)
