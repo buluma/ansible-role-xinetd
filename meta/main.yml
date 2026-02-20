@@ -5,24 +5,24 @@ galaxy_info:
   description: Install and configure xinetd on your system.
   license: Apache-2.0
   company: ShadowNet
-  min_ansible_version: '2.12'
+  min_ansible_version: "2.12"
   platforms:
     - name: EL
       versions:
         - all
-  - name: Debian
-    versions:
-    - all
-  - name: opensuse
-    versions:
-    - all
-  - name: Ubuntu
-    versions:
-    - all
+    - name: Debian
+      versions:
+        - all
+    - name: opensuse
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
   galaxy_tags:
     - daemon
-  - installer
-  - networking
-  - system
-  - xinetd
+    - installer
+    - networking
+    - system
+    - xinetd
 dependencies: []
