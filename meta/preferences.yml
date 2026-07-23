@@ -2,19 +2,13 @@
 # Pins the CI platform/version matrix for this role. Without this, ansible-generator
 # falls back to default_platforms and silently discards these choices on regenerate.
 platforms:
-  - name: EL
-    versions:
-      - "10"
-      - "9"
+  # EL and Fedora are excluded entirely: xinetd is gone from both. RHEL9+
+  # dropped it in favor of systemd sockets (Red Hat's own guidance), and
+  # Fedora retired the package around F34 (dead.package marker in rawhide,
+  # no branch for it as of f43). EPEL doesn't carry it either.
   - name: Debian
     versions:
       - all
-  - name: Fedora
-    versions:
-      # Excludes 45: it ships Python 3.15.0b3, whose dataclasses module
-      # dropped _is_type, breaking ansible-core's AnsiballZ module wrapper.
-      - "44"
-      - "43"
   - name: Ubuntu
     versions:
       - all
